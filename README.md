@@ -1,1 +1,1 @@
-Hello, my name's Mihail Emelyanov, I'm a programmer and an electronics engineer. I specialize in backend and desktop development with C# and Python, as well development of telecommunications & microprocessor systems.  
+Hello, my name's Mihail Emelyanov, I'm a programmer and an electronics engineer. I specialize in backend and desktop software development with C# and Python, as well as development of telecommunications & microprocessor systems.  
