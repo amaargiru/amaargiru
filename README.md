@@ -1,1 +1,1 @@
-Hello, my name's Mihail Emelyanov, I'm a programmer and an electronics engineer. I specialize in backend and desktop software development with C# and Python, as well as development of telecommunications & microprocessor systems. There are my public repositories:  
+Hello, my name's Mihail Emelyanov, I'm a programmer and an electronics engineer. I specialize in backend and desktop software development with Python and C#, as well as development of telecommunications & microprocessor systems. There are my public repositories:  
