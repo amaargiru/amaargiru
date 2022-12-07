@@ -1,3 +1,2 @@
-Hello, my name's Mihail Emelyanov, I am a programmer and an electronics engineer.  
-My principal languages are Python, C# and SQL, I've also done commercial work in C, Java and assembler. I specialize in backend and embedded software development, as well as development of telecommunication & microprocessor systems.  
-My OSS projects are as follows: 👇🏼
+Привет! Меня зовут Михаил Емельянов, я бекенд-программист, и прямо сейчас я нахожусь в поисках работы.  
+Мой основной язык программирования — Python, также я писал на C#, C, Java и ассемблере. Вот здесь есть моё [резюме](https://github.com/amaargiru/cv/blob/master/readme.md) и список реализованных [проектов](https://github.com/amaargiru/cv/blob/master/completed_projects_ru.md).  
